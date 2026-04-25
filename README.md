@@ -8,8 +8,6 @@ where I aim to bridge the gap between strategic leadership and technical innovat
 
 **Developing My Path:** While balancing my military career with rigorous academic studies, I am currently dedicated to mastering the core principles of computer science and software engineering. I enjoy the challenge of diving into system logic, learning how things work under the hood, and creating clean, efficient code.
 
-**Community & AI:** I lead the "AI-Know" program, an initiative dedicated to making AI tools accessible to older adults and new immigrants, empowering them to navigate the modern digital landscape.
-
 **Beyond the Screen:** When I'm not coding or serving, you can find me diving in the deep sea or running long distances. These passions keep me disciplined, focused, and always ready for the next challenge.
 
 **The Goal:** I strive to combine my management experience with hands-on software engineering to build impactful technological solutions and grow as a developer.
